@@ -1,5 +1,6 @@
 Task 7 : Stock Market Prediction Analysis Numerical & Textual data (Advanced level). I had 2 types of data files. the textual one was about the news related to market in order to study it and help us in price prediction. and ofcourse the numerical was the prices itself. you can check the dataset.
 
+![image](https://github.com/user-attachments/assets/f31accb5-94ea-4627-951d-657254df36f5)
 
 Steps I followed :
 
